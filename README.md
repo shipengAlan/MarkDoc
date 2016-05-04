@@ -1,6 +1,7 @@
 ## 博客
 - 强化学习 假设检验 遗传算法 关联分析 PCA 朴素贝叶斯 http://www.algorithmdog.com/
 - Spirits Away http://spiritsaway.info/
+- 机器学习基石笔记 http://www.cnblogs.com/ymingjingr/p/4271742.html
 
 
 ## 文章
