@@ -11,3 +11,8 @@
 ###### Pelican
 - Pelican Doc https://pelican-docs-chs.readthedocs.io/en/latest/
 - Pelican 教程 https://www.linuxzen.com/shi-yong-pelicanda-zao-jing-tai-bo-ke.html
+
+## 研究
+###### 众包(Crowdsourcing)
+- http://research.microsoft.com/en-us/projects/crowd/
+- https://crowdlab.cs.washington.edu/
