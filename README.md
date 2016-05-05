@@ -18,3 +18,6 @@
 - http://research.microsoft.com/en-us/projects/crowd/
 - https://crowdlab.cs.washington.edu/
 - http://www.ipeirotis.com/publications/
+
+## 资源
+- 机器学习入门资源不完全汇总 http://ml.memect.com/article/machine-learning-guide.html
