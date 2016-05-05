@@ -17,3 +17,4 @@
 ###### 众包(Crowdsourcing)
 - http://research.microsoft.com/en-us/projects/crowd/
 - https://crowdlab.cs.washington.edu/
+- http://www.ipeirotis.com/publications/
