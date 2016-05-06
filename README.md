@@ -7,6 +7,8 @@
 ## 文章
 - 从傅里叶变换到小波变换的通俗解释 http://dataunion.org/23915.html
 - 子模性（submodular） http://spiritsaway.info/algorithm/submodual.html
+- 最大熵 http://www.zhizhihu.com/html/y2011/3500.html
+- 张量 http://wenku.baidu.com/view/ea5e4f83f18583d0496459f9.html
 
 ## 技术
 ###### Pelican
