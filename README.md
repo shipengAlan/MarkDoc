@@ -9,6 +9,7 @@
 - 子模性（submodular） http://spiritsaway.info/algorithm/submodual.html
 - 最大熵 http://www.zhizhihu.com/html/y2011/3500.html
 - 张量 http://wenku.baidu.com/view/ea5e4f83f18583d0496459f9.html
+- 第二价格拍卖 https://www.zhihu.com/question/30471881
 
 ## 技术
 ###### Pelican
