@@ -25,5 +25,8 @@
 - https://crowdlab.cs.washington.edu/
 - http://www.ipeirotis.com/publications/
 
+###### 计算经济学(Computational Microeconomics)
+- http://www.cs.duke.edu/courses/spring16/compsci590.4/
+
 ## 资源
 - 机器学习入门资源不完全汇总 http://ml.memect.com/article/machine-learning-guide.html
