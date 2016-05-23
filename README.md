@@ -3,6 +3,7 @@
 - Spirits Away http://spiritsaway.info/
 - 机器学习基石笔记 http://www.cnblogs.com/ymingjingr/p/4271742.html
 - CS-Xulijie http://www.cnblogs.com/jerrylead/
+- Linux指令 http://www.cnblogs.com/xqzt/
 
 ## 文章
 - 从傅里叶变换到小波变换的通俗解释 http://dataunion.org/23915.html
@@ -13,6 +14,8 @@
 - Jump Game问题的多种解法 https://leetcode.com/articles/jump-game/
 - 极大似然估计与EM算法 http://blog.csdn.net/zouxy09/article/details/8537620
 - EM算法 http://www.cnblogs.com/jerrylead/archive/2011/04/06/2006936.html 
+- 位图索引 http://www.cnblogs.com/xqzt/p/4457184.html
+
 
 ## 技术
 ###### Pelican
