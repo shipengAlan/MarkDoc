@@ -15,7 +15,7 @@
 - 极大似然估计与EM算法 http://blog.csdn.net/zouxy09/article/details/8537620
 - EM算法 http://www.cnblogs.com/jerrylead/archive/2011/04/06/2006936.html 
 - 位图索引 http://www.cnblogs.com/xqzt/p/4457184.html
-
+- Bandit https://mp.weixin.qq.com/s?__biz=MzA4OTk5OTQzMg==&mid=2449231162&idx=1&sn=701246413bc0448b815803c0dc120f6d
 
 ## 技术
 ###### Pelican
