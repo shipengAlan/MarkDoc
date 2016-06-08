@@ -35,3 +35,4 @@
 - 机器学习入门资源不完全汇总 http://ml.memect.com/article/machine-learning-guide.html
 - 概率图模型 http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html
 - Coursera课程 概率图模型 https://class.coursera.org/pgm-003/lecture
+- 机器学习数据集 https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
