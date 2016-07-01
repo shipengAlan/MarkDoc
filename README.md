@@ -21,6 +21,7 @@
 ###### Pelican
 - Pelican Doc https://pelican-docs-chs.readthedocs.io/en/latest/
 - Pelican 教程 https://www.linuxzen.com/shi-yong-pelicanda-zao-jing-tai-bo-ke.html
+- Android反编译 http://www.techug.com/android-decompile
 
 ## 研究
 ###### 众包(Crowdsourcing)
