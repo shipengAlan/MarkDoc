@@ -4,6 +4,7 @@
 - 机器学习基石笔记 http://www.cnblogs.com/ymingjingr/p/4271742.html
 - CS-Xulijie http://www.cnblogs.com/jerrylead/
 - Linux指令 http://www.cnblogs.com/xqzt/
+- 全栈工程师、聊天机器人 http://www.shareditor.com/
 
 ## 文章
 - 从傅里叶变换到小波变换的通俗解释 http://dataunion.org/23915.html
